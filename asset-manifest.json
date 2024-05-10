@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TesnimMdeda/AscenseurByZardoum.git/static/css/main.08944a33.css",
+    "main.js": "/TesnimMdeda/AscenseurByZardoum.git/static/js/main.05a3efe3.js",
+    "static/js/787.04791f72.chunk.js": "/TesnimMdeda/AscenseurByZardoum.git/static/js/787.04791f72.chunk.js",
+    "index.html": "/TesnimMdeda/AscenseurByZardoum.git/index.html",
+    "main.08944a33.css.map": "/TesnimMdeda/AscenseurByZardoum.git/static/css/main.08944a33.css.map",
+    "main.05a3efe3.js.map": "/TesnimMdeda/AscenseurByZardoum.git/static/js/main.05a3efe3.js.map",
+    "787.04791f72.chunk.js.map": "/TesnimMdeda/AscenseurByZardoum.git/static/js/787.04791f72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08944a33.css",
+    "static/js/main.05a3efe3.js"
+  ]
+}
